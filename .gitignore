@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Make sure files which shouldn't be on github aren't.
+# More information in the running instructions
+*.csv
+*.xls*
+Outputs/*.R
+Outputs/*.pdf
