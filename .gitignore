@@ -41,6 +41,7 @@ vignettes/*.pdf
 # Make sure files which shouldn't be on github aren't.
 # More information in the running instructions
 *.csv
-*.xls*
+*.xls
+*.xlsx
 Outputs/*.R
 Outputs/*.pdf
